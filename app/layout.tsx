@@ -59,6 +59,7 @@ export default function RootLayout({
             <meta name="twitter:site" content="@webstyle_fr" />
             <meta name="twitter:creator" content="@webstyle_fr" />
             <link rel="icon" href="/icon.png" />
+		<meta name="google-site-verification" content="5EF2XaY_tL-KwIr4VywVUZyrwZhXBovBCPzW_yYmBWU" />
 
             <title>Web&Style</title>
         </head>
